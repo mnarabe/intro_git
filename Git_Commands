@@ -2,3 +2,4 @@ git add
 git commit -v
 git status
 git log
+git diff
